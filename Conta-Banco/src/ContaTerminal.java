@@ -17,6 +17,7 @@ public class ContaTerminal {
         System.out.println("Por Favor, Digite seu Depósito.");
         String Deposito = scanner.next();
 
-}
+    }
 
 }
+
